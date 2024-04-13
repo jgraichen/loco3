@@ -12,10 +12,15 @@
 *.sch-bak
 *~
 _autosave-*
+*.lck
 *.tmp
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+jlcpcb
+*/panel/*
+!*/panel/.keep
+production
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -27,3 +32,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Freecad
+__pycache__
+*.FCBak
