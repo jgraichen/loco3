@@ -1291,14 +1291,14 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "5e4eacc3-df51-4ef7-9fd5-7f8d4b254201")
-		(at 142 108)
+		(at 143 108)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5a27a356-e47a-4123-bfc9-0c256f82f35c")
+			(uuid "339c16db-62fe-401f-9a6c-f342c7e8c929")
 			(effects
 				(font
 					(size 1 1)
@@ -1310,7 +1310,7 @@
 			(at 0 3.8 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "86f14df5-5eb7-472c-a2eb-3805e8bbc307")
+			(uuid "6282b413-cce1-40b7-bc80-63f229be85c4")
 			(effects
 				(font
 					(size 1 1)
@@ -1364,7 +1364,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "9c39f2b4-400a-4204-9dd7-ca1936d3f60e")
+			(uuid "75718b4b-42fc-4912-a771-e8b3cd41965c")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1375,12 +1375,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "94442921-0bee-468f-bf46-1c3b06a23730")
+			(uuid "914c506b-6081-43d7-9783-34d17c43c6de")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "d1e52397-90f2-455d-9789-e5e0967fb7b2")
+			(uuid "bd8c445a-ec2a-4483-b7cc-051ad59405b6")
 			(effects
 				(font
 					(size 1 1)
@@ -1394,7 +1394,7 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "a36e875c-3934-46d9-a838-bbb0cb7b2f77")
+			(uuid "33f3c43b-7335-4f14-9806-0ac341d28183")
 		)
 	)
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
@@ -1714,14 +1714,14 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "9fb1ec91-503c-4636-9fee-bd9eb62c0de0")
-		(at 186 108)
+		(at 185 108)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5a27a356-e47a-4123-bfc9-0c256f82f35c")
+			(uuid "765b6258-96bd-48d5-9a0b-9f2a74ac9c8c")
 			(effects
 				(font
 					(size 1 1)
@@ -1733,7 +1733,7 @@
 			(at 0 3.8 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "86f14df5-5eb7-472c-a2eb-3805e8bbc307")
+			(uuid "07d25172-0368-4de7-8a4a-63707ca73ba8")
 			(effects
 				(font
 					(size 1 1)
@@ -1787,7 +1787,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "9c39f2b4-400a-4204-9dd7-ca1936d3f60e")
+			(uuid "e0469049-38a1-463b-824c-9d39efda95e1")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1798,12 +1798,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "94442921-0bee-468f-bf46-1c3b06a23730")
+			(uuid "62df5bec-c020-4baf-8b44-7c9a1067b810")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "d1e52397-90f2-455d-9789-e5e0967fb7b2")
+			(uuid "30f68c45-36d9-402f-b8ab-c4a39551aab2")
 			(effects
 				(font
 					(size 1 1)
@@ -1817,7 +1817,7 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "a36e875c-3934-46d9-a838-bbb0cb7b2f77")
+			(uuid "18d87ae4-431c-48a4-92b8-5c5d3101325e")
 		)
 	)
 	(footprint "Samacsys:955012611"
@@ -2483,8 +2483,8 @@
 		(uuid "c5894d42-3ca8-4acd-a2d2-d781a6188bdc")
 	)
 	(gr_rect
-		(start 139 80)
-		(end 189 120)
+		(start 140 81)
+		(end 188 119)
 		(stroke
 			(width 0.05)
 			(type dash)
@@ -2514,7 +2514,7 @@
 		(uuid "71ccebfd-a253-4bd7-abb6-a66d9646f4c0")
 	)
 	(gr_text "M3"
-		(at 142 104 0)
+		(at 143 104 0)
 		(layer "F.SilkS")
 		(uuid "58272d6b-14e0-45b5-bda6-9c176acccf8b")
 		(effects
@@ -2548,7 +2548,7 @@
 		)
 	)
 	(gr_text "M3"
-		(at 186 104 0)
+		(at 185 104 0)
 		(layer "F.SilkS")
 		(uuid "e7c591ef-561d-452a-8696-ac77543439bf")
 		(effects
