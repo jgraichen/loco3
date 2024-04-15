@@ -3164,7 +3164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Samacsys:955012611"
+		(property "Footprint" "Snapeda:A-2004-1-4-LP-N-R_ASSMANN_A-2004-1-4-LP-N-R"
 			(at 172.085 60.96 90)
 			(effects
 				(font
@@ -4372,7 +4372,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Snapeda:CUI_CRJ025-1-TH"
+		(property "Footprint" "Snapeda:A-2014-1-4-N-T-R_ASSMANN_A-2014-1-4-N-T-R"
 			(at 141.605 60.96 90)
 			(effects
 				(font
@@ -4533,7 +4533,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Samacsys:955012611"
+		(property "Footprint" "Snapeda:A-2004-1-4-LP-N-R_ASSMANN_A-2004-1-4-LP-N-R"
 			(at 109.855 60.96 90)
 			(effects
 				(font
