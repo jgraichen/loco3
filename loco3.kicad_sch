@@ -3237,7 +3237,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "22k"
 			(at 101.6 120.6499 0)
 			(effects
 				(font
@@ -3273,7 +3273,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22975"
+		(property "LCSC" "C31850"
 			(at 99.06 119.38 0)
 			(effects
 				(font
@@ -3382,7 +3382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "27k"
 			(at 186.69 123.1899 0)
 			(effects
 				(font
@@ -3418,7 +3418,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22975"
+		(property "LCSC" "C22967"
 			(at 184.15 121.92 0)
 			(effects
 				(font
