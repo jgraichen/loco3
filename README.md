@@ -2,20 +2,10 @@
 
 LocoNet distribution box with power and activity indicator
 
-<table>
-  <tr>
-    <td>
-      <a href="images/render.png">
-        <img src="images/render.png" />
-      <a>
-    </td>
-    <td>
-      <a href="images/preview.jpeg">
-        <img src="images/preview.jpeg" />
-      <a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="images/render.png"><img src="images/render.png" width="49%" /><a>
+  <a href="images/preview.jpeg"><img src="images/preview.jpeg" width="49%" /><a>
+</p>
 
 ## License
 
